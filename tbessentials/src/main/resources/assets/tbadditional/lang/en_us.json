@@ -1,0 +1,18 @@
+{
+  "itemGroup.tbadditional": "Traveler's Backpacks Additional",
+
+  "item.tbadditional.anvil_upgrade": "Anvil Upgrade",
+  "item.tbadditional.stonecutter_upgrade": "Stonecutter Upgrade",
+  "item.tbadditional.smithing_table_upgrade": "Smithing Table Upgrade",
+  "item.tbadditional.brewing_stand_upgrade": "Brewing Stand Upgrade",
+
+  "item.tbadditional.anvil_upgrade.tooltip": "Click the icon to repair, combine and rename items",
+  "item.tbadditional.stonecutter_upgrade.tooltip": "Click the icon to use a stonecutter",
+  "item.tbadditional.smithing_table_upgrade.tooltip": "Click the icon to upgrade gear and apply armor trims",
+  "item.tbadditional.brewing_stand_upgrade.tooltip": "Click the icon to brew potions; brewing continues while the backpack is equipped",
+
+  "screen.tbadditional.anvil_upgrade": "Anvil",
+  "screen.tbadditional.stonecutter_upgrade": "Stonecutter",
+  "screen.tbadditional.smithing_table_upgrade": "Smithing Table",
+  "screen.tbadditional.brewing_stand_upgrade": "Brewing Stand"
+}

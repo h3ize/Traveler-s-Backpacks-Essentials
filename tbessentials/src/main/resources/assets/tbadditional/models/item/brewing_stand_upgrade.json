@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "tbadditional:item/brewing_stand_upgrade"
+  }
+}
