@@ -16,9 +16,9 @@ jobs:
       - name: Locate project
         id: find
         run: |
-          settings=$(grep -rl --include=settings.gradle "rootProject.name = 'tbadditional'" . | head -n 1)
+          settings=$(grep -rl --include=settings.gradle "rootProject.name = 'tbessentials'" . | head -n 1)
           if [ -z "$settings" ]; then
-            echo "settings.gradle for tbadditional not found"
+            echo "settings.gradle for tbessentials not found"
             exit 1
           fi
           echo "dir=$(dirname "$settings")" >> "$GITHUB_OUTPUT"
@@ -41,5 +41,5 @@ jobs:
       - name: Upload jar
         uses: actions/upload-artifact@v4
         with:
-          name: tbadditional-jar
+          name: tbessentials-jar
           path: ${{ steps.find.outputs.dir }}/build/libs/*.jar
