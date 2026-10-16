@@ -22,7 +22,7 @@ neoForge {
 
 dependencies {
     compileOnly files("libs/${tb_jar}")
-    localRuntime files("libs/${tb_jar}")
+    runtimeOnly files("libs/${tb_jar}")
 }
 
 tasks.withType(ProcessResources).configureEach {
