@@ -4,7 +4,7 @@ plugins {
 }
 
 version = mod_version
-group = 'com.tbadditional'
+group = 'com.tbessentials'
 base { archivesName = mod_id }
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(21)

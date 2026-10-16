@@ -1,0 +1,15 @@
+{
+  "itemGroup.tbessentials": "Traveler's Backpacks Essentials",
+  "item.tbessentials.anvil_upgrade": "Anvil Upgrade",
+  "item.tbessentials.stonecutter_upgrade": "Stonecutter Upgrade",
+  "item.tbessentials.smithing_table_upgrade": "Smithing Table Upgrade",
+  "item.tbessentials.brewing_stand_upgrade": "Brewing Stand Upgrade",
+  "item.travelersbackpack.anvil_upgrade_tooltip": "Adds an anvil to the backpack",
+  "item.travelersbackpack.stonecutter_upgrade_tooltip": "Adds a stonecutter to the backpack",
+  "item.travelersbackpack.smithing_table_upgrade_tooltip": "Adds a smithing table to the backpack",
+  "item.travelersbackpack.brewing_stand_upgrade_tooltip": "Adds a brewing stand to the backpack",
+  "screen.tbessentials.anvil_upgrade": "Anvil",
+  "screen.tbessentials.stonecutter_upgrade": "Stonecutter",
+  "screen.tbessentials.smithing_table_upgrade": "Smithing Table",
+  "screen.tbessentials.brewing_stand_upgrade": "Brewing Stand"
+}
